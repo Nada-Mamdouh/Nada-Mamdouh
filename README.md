@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Nada 👋</h1>
-<h3 align="left">A passionate junior web developer</h3>
+<h3 align="left">A passionate backend engineer</h3>
 
 - 🌱 I’m currently learning **everything :)**
 
